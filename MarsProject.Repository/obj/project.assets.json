@@ -35,11 +35,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\visualstudio\\TalSoftware\\Task\\tal_software_task_hepsi_pay_mars_rover_problem\\MarsProject.Repository\\MarsProject.Repository.csproj",
+      "projectUniqueName": "D:\\projects\\visualstudio\\TalSoftware\\Task\\tal_software_task_hepsi_pay_mars_project\\MarsProject.Repository\\MarsProject.Repository.csproj",
       "projectName": "MarsProject.Repository",
-      "projectPath": "D:\\projects\\visualstudio\\TalSoftware\\Task\\tal_software_task_hepsi_pay_mars_rover_problem\\MarsProject.Repository\\MarsProject.Repository.csproj",
+      "projectPath": "D:\\projects\\visualstudio\\TalSoftware\\Task\\tal_software_task_hepsi_pay_mars_project\\MarsProject.Repository\\MarsProject.Repository.csproj",
       "packagesPath": "C:\\Users\\ysfcn\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\visualstudio\\TalSoftware\\Task\\tal_software_task_hepsi_pay_mars_rover_problem\\MarsProject.Repository\\obj\\",
+      "outputPath": "D:\\projects\\visualstudio\\TalSoftware\\Task\\tal_software_task_hepsi_pay_mars_project\\MarsProject.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -69,8 +69,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\projects\\visualstudio\\TalSoftware\\Task\\tal_software_task_hepsi_pay_mars_rover_problem\\MarsProject.Data\\MarsProject.Data.csproj": {
-              "projectPath": "D:\\projects\\visualstudio\\TalSoftware\\Task\\tal_software_task_hepsi_pay_mars_rover_problem\\MarsProject.Data\\MarsProject.Data.csproj"
+            "D:\\projects\\visualstudio\\TalSoftware\\Task\\tal_software_task_hepsi_pay_mars_project\\MarsProject.Data\\MarsProject.Data.csproj": {
+              "projectPath": "D:\\projects\\visualstudio\\TalSoftware\\Task\\tal_software_task_hepsi_pay_mars_project\\MarsProject.Data\\MarsProject.Data.csproj"
             }
           }
         }

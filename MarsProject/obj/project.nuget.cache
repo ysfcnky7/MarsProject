@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bv/BVLWfRDX6lgiHYu3yMPQLDx97r6N9t0XngODP37ACb2uxkWEwbviB1ie628PrtNMiYlCpuGU5ouipSFzoWA==",
+  "dgSpecHash": "GhaGmtAm7aVhBAZHIRYWCyhExJMhXr1cUe/zZRMiPG77w4dhdYdxp6MIRNA4rEXA86i7E8wj8m5PPDMic1NGsg==",
   "success": true,
-  "projectFilePath": "D:\\projects\\visualstudio\\TalSoftware\\Task\\tal_software_task_hepsi_pay_mars_rover_problem\\MarsProject\\MarsProject.csproj",
+  "projectFilePath": "D:\\projects\\visualstudio\\TalSoftware\\Task\\tal_software_task_hepsi_pay_mars_project\\MarsProject\\MarsProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ysfcn\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\ysfcn\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
