@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MarsProject.Service/1.0.0": {
+        "dependencies": {
+          "MarsProject.Data": "1.0.0",
+          "MarsProject.Helper": "1.0.0",
+          "MarsProject.Repository": "1.0.0"
+        },
+        "runtime": {
+          "MarsProject.Service.dll": {}
+        }
+      },
+      "MarsProject.Data/1.0.0": {
+        "runtime": {
+          "MarsProject.Data.dll": {}
+        }
+      },
+      "MarsProject.Helper/1.0.0": {
+        "runtime": {
+          "MarsProject.Helper.dll": {}
+        }
+      },
+      "MarsProject.Repository/1.0.0": {
+        "dependencies": {
+          "MarsProject.Data": "1.0.0"
+        },
+        "runtime": {
+          "MarsProject.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarsProject.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarsProject.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarsProject.Helper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarsProject.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

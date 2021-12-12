@@ -1,0 +1,11 @@
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Data\bin\Debug\net5.0\MarsProject.Data.deps.json
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Data\bin\Debug\net5.0\MarsProject.Data.dll
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Data\bin\Debug\net5.0\ref\MarsProject.Data.dll
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Data\bin\Debug\net5.0\MarsProject.Data.pdb
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Data\obj\Debug\net5.0\MarsProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Data\obj\Debug\net5.0\MarsProject.Data.AssemblyInfoInputs.cache
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Data\obj\Debug\net5.0\MarsProject.Data.AssemblyInfo.cs
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Data\obj\Debug\net5.0\MarsProject.Data.csproj.CoreCompileInputs.cache
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Data\obj\Debug\net5.0\MarsProject.Data.dll
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Data\obj\Debug\net5.0\ref\MarsProject.Data.dll
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Data\obj\Debug\net5.0\MarsProject.Data.pdb

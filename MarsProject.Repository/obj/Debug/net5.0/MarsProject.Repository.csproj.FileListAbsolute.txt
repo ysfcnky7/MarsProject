@@ -1,0 +1,15 @@
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\obj\Debug\net5.0\MarsProject.Repository.csproj.AssemblyReference.cache
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\obj\Debug\net5.0\MarsProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\obj\Debug\net5.0\MarsProject.Repository.AssemblyInfoInputs.cache
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\obj\Debug\net5.0\MarsProject.Repository.AssemblyInfo.cs
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\obj\Debug\net5.0\MarsProject.Repository.csproj.CoreCompileInputs.cache
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\bin\Debug\net5.0\MarsProject.Repository.deps.json
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\bin\Debug\net5.0\MarsProject.Repository.dll
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\bin\Debug\net5.0\ref\MarsProject.Repository.dll
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\bin\Debug\net5.0\MarsProject.Repository.pdb
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\bin\Debug\net5.0\MarsProject.Data.dll
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\bin\Debug\net5.0\MarsProject.Data.pdb
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\obj\Debug\net5.0\MarsProject.Repository.csproj.CopyComplete
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\obj\Debug\net5.0\MarsProject.Repository.dll
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\obj\Debug\net5.0\ref\MarsProject.Repository.dll
+D:\projects\visualstudio\TalSoftware\Task\tal_software_task_hepsi_pay_mars_rover_problem\MarsProject.Repository\obj\Debug\net5.0\MarsProject.Repository.pdb
